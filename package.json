@@ -1,0 +1,29 @@
+{
+  "name": "zeta-space",
+  "version": "1.0.0",
+  "description": "Distibuted storage",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "jquery.nicescroll": "^3.7.6",
+    "level": "^6.0.0",
+    "popper.js": "^1.16.0"
+  },
+  "devDependencies": {
+    "electron": "^6.0.11"
+  }
+}
